@@ -1,12 +1,10 @@
----
+<div align="center">
 
-## 📸 Application Preview
-
-Add screenshots here:
-
-```md
-![https://bank-churn-prediction-5p9wq2ay99stniacjbdnmk.streamlit.app/](./images/preview.png)
-```
+<a href="https://bank-churn-prediction-5p9wq2ay99stniacjbdnmk.streamlit.app/">
+  <img src="./images/preview.png" alt="website Demo"/>
+</a>
+### Click the image above to open the live website
+</div>
 
 # 🏦 Bank Customer Churn Prediction
 
