@@ -1,3 +1,13 @@
+---
+
+## 📸 Application Preview
+
+Add screenshots here:
+
+```md
+![https://bank-churn-prediction-5p9wq2ay99stniacjbdnmk.streamlit.app/](./images/preview.png)
+```
+
 # 🏦 Bank Customer Churn Prediction
 
 > Machine Learning powered web application to predict customer churn risk using Streamlit.
@@ -112,16 +122,6 @@ Run Streamlit app:
 
 ```bash
 streamlit run app.py
-```
-
----
-
-## 📸 Application Preview
-
-Add screenshots here:
-
-```md
-![App Preview](./images/preview.png)
 ```
 
 ---
